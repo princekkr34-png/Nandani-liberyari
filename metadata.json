@@ -1,0 +1,6 @@
+{
+  "name": "Nandini Digital Library",
+  "description": "Official Web Portal and Online Registration System for Nandini Digital Library (Achiever's Choice, Dudahi, Kushinagar). Features digital student admission, seat matrix, ID card generation, and facility tours.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
